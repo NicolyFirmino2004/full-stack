@@ -88,4 +88,3 @@ Sempre que estiver trabalhando em equipe ou em computadores diferentes:
 
 ---
 
-**Gostaria que eu explicasse como resolver "conflitos de merge", que é quando duas pessoas mexem na mesma linha do código?**
